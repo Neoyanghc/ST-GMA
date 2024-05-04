@@ -5,7 +5,7 @@ PyTorch Implementation of ST-GMA
 
 ## Requirements
 
-* Python >= 3.5 (3.6 recommended)
+* Python >= 3.6 (3.7 recommended)
 * PyTorch (tested with PyTorch 1.11.0)
 * Optional: CUDA (tested with CUDA 11.3)
 * networkx
